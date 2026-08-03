@@ -1,29 +1,46 @@
 <!DOCTYPE html>
 <html lang="fa" dir="rtl">
+
 <head>
 <meta charset="UTF-8">
-<title>پخش آنلاین فایل‌های صوتی</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>کتابخانه صوتی</title>
 
 <style>
 
 body{
-font-family:tahoma;
-background:#f3f3f3;
-max-width:700px;
-margin:auto;
-padding:30px;
+    font-family:tahoma;
+    background:#f5f5f5;
+    margin:0;
+    padding:20px;
+}
+
+h1{
+    text-align:center;
+}
+
+.container{
+    display:grid;
+    grid-template-columns:repeat(7,1fr);
+    gap:15px;
 }
 
 .card{
-background:white;
-padding:20px;
-margin:20px 0;
-border-radius:10px;
-box-shadow:0 0 10px #ddd;
+    background:white;
+    padding:10px;
+    border-radius:10px;
+    box-shadow:0 2px 8px rgba(0,0,0,.15);
+}
+
+.card h3{
+    font-size:14px;
+    margin-top:0;
+    word-break:break-word;
 }
 
 audio{
-width:100%;
+    width:100%;
 }
 
 </style>
@@ -32,37 +49,46 @@ width:100%;
 
 <body>
 
-<h1>فایل‌های صوتی</h1>
+<h1>کتابخانه صوتی</h1>
+
+<div id="container" class="container"></div>
+
+<script>
+
+fetch("files.json")
+.then(r=>r.json())
+.then(files=>{
+
+files.sort((a,b)=>a.localeCompare(b,'fa'));
+
+const container=document.getElementById("container");
+
+files.forEach(file=>{
+
+const title=file.replace(".mp3","");
+
+container.innerHTML+=`
 
 <div class="card">
 
-<h3>صوت اول</h3>
+<h3>${title}</h3>
 
-<audio controls>
-<source src="audio/song1.mp3" type="audio/mpeg">
+<audio controls preload="none">
+
+<source src="audio/${file}" type="audio/mpeg">
+
 </audio>
 
 </div>
 
-<div class="card">
+`;
 
-<h3>صوت دوم</h3>
+});
 
-<audio controls>
-<source src="audio/song2.mp3" type="audio/mpeg">
-</audio>
+});
 
-</div>
-
-<div class="card">
-
-<h3>سخنرانی</h3>
-
-<audio controls>
-<source src="audio/lecture.mp3" type="audio/mpeg">
-</audio>
-
-</div>
+</script>
 
 </body>
+
 </html>
