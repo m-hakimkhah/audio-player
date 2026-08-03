@@ -1,5 +1,14 @@
 [
-  "F1_3.wav",
-  "F2_4.wav",
-  "F3_4.wav"
+  {
+    "title": "Demo 1 - Babble Noise",
+    "file": "low_snr_demo_001.mp3"
+  },
+  {
+    "title": "Demo 2 - Street Noise",
+    "file": "low_snr_demo_002.mp3"
+  },
+  {
+    "title": "Demo 3 - Cafe Noise",
+    "file": "low_snr_demo_003.mp3"
+  }
 ]
