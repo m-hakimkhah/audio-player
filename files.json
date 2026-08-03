@@ -1,394 +1,394 @@
 [
   {
     "title": "clean1",
-    "file": "F1_3.wav"
+    "file": "1.wav"
   },
   {
     "title": "noisy 0dB",
-    "file": "F2_4.wav"
+    "file": "2.wav"
   },
   {
     "title": "enhanced 0dB",
-    "file": "F3_4.wav"
+    "file": "3.wav"
   },
   {
     "title": "noisy -5dB",
-    "file": "F2_4.wav"
+    "file": "4.wav"
   },
   {
     "title": "enhanced -5dB",
-    "file": "F3_4.wav"
+    "file": "5.wav"
   },
   {
     "title": "noisy -10dB",
-    "file": "F2_4.wav"
+    "file": "6.wav"
   },
   {
     "title": "enhanced -10dB",
-    "file": "F3_4.wav"
+    "file": "7.wav"
   },
   {
     "title": "clean2",
-    "file": "F1_3.wav"
+    "file": "8.wav"
   },
   {
     "title": "noisy 0dB",
-    "file": "F2_4.wav"
+    "file": "9.wav"
   },
   {
     "title": "enhanced 0dB",
-    "file": "F3_4.wav"
+    "file": "10.wav"
   },
   {
     "title": "noisy -5dB",
-    "file": "F2_4.wav"
+    "file": "11.wav"
   },
   {
     "title": "enhanced -5dB",
-    "file": "F3_4.wav"
+    "file": "12.wav"
   },
   {
     "title": "noisy -10dB",
-    "file": "F2_4.wav"
+    "file": "13.wav"
   },
   {
     "title": "enhanced -10dB",
-    "file": "F3_4.wav"
+    "file": "14.wav"
   },
   {
     "title": "clean3",
-    "file": "F1_3.wav"
+    "file": "15.wav"
   },
   {
     "title": "noisy 0dB",
-    "file": "F2_4.wav"
+    "file": "16.wav"
   },
   {
     "title": "enhanced 0dB",
-    "file": "F3_4.wav"
+    "file": "17.wav"
   },
   {
     "title": "noisy -5dB",
-    "file": "F2_4.wav"
+    "file": "18.wav"
   },
   {
     "title": "enhanced -5dB",
-    "file": "F3_4.wav"
+    "file": "19.wav"
   },
   {
     "title": "noisy -10dB",
-    "file": "F2_4.wav"
+    "file": "20.wav"
   },
   {
     "title": "enhanced -10dB",
-    "file": "F3_4.wav"
+    "file": "21.wav"
   },
   {
     "title": "clean4",
-    "file": "F1_3.wav"
+    "file": "22.wav"
   },
   {
     "title": "noisy 0dB",
-    "file": "F2_4.wav"
+    "file": "23.wav"
   },
   {
     "title": "enhanced 0dB",
-    "file": "F3_4.wav"
+    "file": "24.wav"
   },
   {
     "title": "noisy -5dB",
-    "file": "F2_4.wav"
+    "file": "25.wav"
   },
   {
     "title": "enhanced -5dB",
-    "file": "F3_4.wav"
+    "file": "26.wav"
   },
   {
     "title": "noisy -10dB",
-    "file": "F2_4.wav"
+    "file": "27.wav"
   },
   {
     "title": "enhanced -10dB",
-    "file": "F3_4.wav"
+    "file": "28.wav"
   },
   {
     "title": "clean5",
-    "file": "F1_3.wav"
+    "file": "29.wav"
   },
   {
     "title": "noisy 0dB",
-    "file": "F2_4.wav"
+    "file": "30.wav"
   },
   {
     "title": "enhanced 0dB",
-    "file": "F3_4.wav"
+    "file": "31.wav"
   },
   {
     "title": "noisy -5dB",
-    "file": "F2_4.wav"
+    "file": "32.wav"
   },
   {
     "title": "enhanced -5dB",
-    "file": "F3_4.wav"
+    "file": "33.wav"
   },
   {
     "title": "noisy -10dB",
-    "file": "F2_4.wav"
+    "file": "34.wav"
   },
   {
     "title": "enhanced -10dB",
-    "file": "F3_4.wav"
+    "file": "35.wav"
   },
   {
     "title": "clean6",
-    "file": "F1_3.wav"
+    "file": "36.wav"
   },
   {
     "title": "noisy 0dB",
-    "file": "F2_4.wav"
+    "file": "37.wav"
   },
   {
     "title": "enhanced 0dB",
-    "file": "F3_4.wav"
+    "file": "38.wav"
   },
   {
     "title": "noisy -5dB",
-    "file": "F2_4.wav"
+    "file": "39.wav"
   },
   {
     "title": "enhanced -5dB",
-    "file": "F3_4.wav"
+    "file": "40.wav"
   },
   {
     "title": "noisy -10dB",
-    "file": "F2_4.wav"
+    "file": "41.wav"
   },
   {
     "title": "enhanced -10dB",
-    "file": "F3_4.wav"
+    "file": "42.wav"
   },
   {
     "title": "clean7",
-    "file": "F1_3.wav"
+    "file": "43.wav"
   },
   {
     "title": "noisy 0dB",
-    "file": "F2_4.wav"
+    "file": "44.wav"
   },
   {
     "title": "enhanced 0dB",
-    "file": "F3_4.wav"
+    "file": "45.wav"
   },
   {
     "title": "noisy -5dB",
-    "file": "F2_4.wav"
+    "file": "46.wav"
   },
   {
     "title": "enhanced -5dB",
-    "file": "F3_4.wav"
+    "file": "47.wav"
   },
   {
     "title": "noisy -10dB",
-    "file": "F2_4.wav"
+    "file": "48.wav"
   },
   {
     "title": "enhanced -10dB",
-    "file": "F3_4.wav"
+    "file": "49.wav"
   },
   {
     "title": "clean8",
-    "file": "F1_3.wav"
+    "file": "50.wav"
   },
   {
     "title": "noisy 0dB",
-    "file": "F2_4.wav"
+    "file": "51.wav"
   },
   {
     "title": "enhanced 0dB",
-    "file": "F3_4.wav"
+    "file": "52.wav"
   },
   {
     "title": "noisy -5dB",
-    "file": "F2_4.wav"
+    "file": "53.wav"
   },
   {
     "title": "enhanced -5dB",
-    "file": "F3_4.wav"
+    "file": "54.wav"
   },
   {
     "title": "noisy -10dB",
-    "file": "F2_4.wav"
+    "file": "55.wav"
   },
   {
     "title": "enhanced -10dB",
-    "file": "F3_4.wav"
+    "file": "56.wav"
   },
   {
     "title": "clean9",
-    "file": "F1_3.wav"
+    "file": "57.wav"
   },
   {
     "title": "noisy 0dB",
-    "file": "F2_4.wav"
+    "file": "58.wav"
   },
   {
     "title": "enhanced 0dB",
-    "file": "F3_4.wav"
+    "file": "59.wav"
   },
   {
     "title": "noisy -5dB",
-    "file": "F2_4.wav"
+    "file": "60.wav"
   },
   {
     "title": "enhanced -5dB",
-    "file": "F3_4.wav"
+    "file": "61.wav"
   },
   {
     "title": "noisy -10dB",
-    "file": "F2_4.wav"
+    "file": "62.wav"
   },
   {
     "title": "enhanced -10dB",
-    "file": "F3_4.wav"
+    "file": "63.wav"
   },
   {
     "title": "clean10",
-    "file": "F1_3.wav"
+    "file": "64.wav"
   },
   {
     "title": "noisy 0dB",
-    "file": "F2_4.wav"
+    "file": "65.wav"
   },
   {
     "title": "enhanced 0dB",
-    "file": "F3_4.wav"
+    "file": "66.wav"
   },
   {
     "title": "noisy -5dB",
-    "file": "F2_4.wav"
+    "file": "67.wav"
   },
   {
     "title": "enhanced -5dB",
-    "file": "F3_4.wav"
+    "file": "68.wav"
   },
   {
     "title": "noisy -10dB",
-    "file": "F2_4.wav"
+    "file": "69.wav"
   },
   {
     "title": "enhanced -10dB",
-    "file": "F3_4.wav"
+    "file": "70.wav"
   },
   {
     "title": "clean11",
-    "file": "F1_3.wav"
+    "file": "71.wav"
   },
   {
     "title": "noisy 0dB",
-    "file": "F2_4.wav"
+    "file": "72.wav"
   },
   {
     "title": "enhanced 0dB",
-    "file": "F3_4.wav"
+    "file": "73.wav"
   },
   {
     "title": "noisy -5dB",
-    "file": "F2_4.wav"
+    "file": "74.wav"
   },
   {
     "title": "enhanced -5dB",
-    "file": "F3_4.wav"
+    "file": "75.wav"
   },
   {
     "title": "noisy -10dB",
-    "file": "F2_4.wav"
+    "file": "76.wav"
   },
   {
     "title": "enhanced -10dB",
-    "file": "F3_4.wav"
+    "file": "77.wav"
   },
   {
     "title": "clean12",
-    "file": "F1_3.wav"
+    "file": "78.wav"
   },
   {
     "title": "noisy 0dB",
-    "file": "F2_4.wav"
+    "file": "79.wav"
   },
   {
     "title": "enhanced 0dB",
-    "file": "F3_4.wav"
+    "file": "80.wav"
   },
   {
     "title": "noisy -5dB",
-    "file": "F2_4.wav"
+    "file": "81.wav"
   },
   {
     "title": "enhanced -5dB",
-    "file": "F3_4.wav"
+    "file": "82.wav"
   },
   {
     "title": "noisy -10dB",
-    "file": "F2_4.wav"
+    "file": "83.wav"
   },
   {
     "title": "enhanced -10dB",
-    "file": "F3_4.wav"
+    "file": "84.wav"
   },
   {
     "title": "clean13",
-    "file": "F1_3.wav"
+    "file": "85.wav"
   },
   {
     "title": "noisy 0dB",
-    "file": "F2_4.wav"
+    "file": "86.wav"
   },
   {
     "title": "enhanced 0dB",
-    "file": "F3_4.wav"
+    "file": "87.wav"
   },
   {
     "title": "noisy -5dB",
-    "file": "F2_4.wav"
+    "file": "88.wav"
   },
   {
     "title": "enhanced -5dB",
-    "file": "F3_4.wav"
+    "file": "89.wav"
   },
   {
     "title": "noisy -10dB",
-    "file": "F2_4.wav"
+    "file": "90.wav"
   },
   {
     "title": "enhanced -10dB",
-    "file": "F3_4.wav"
+    "file": "91.wav"
   },
   {
     "title": "clean14",
-    "file": "F1_3.wav"
+    "file": "92.wav"
   },
   {
     "title": "noisy 0dB",
-    "file": "F2_4.wav"
+    "file": "93.wav"
   },
   {
     "title": "enhanced 0dB",
-    "file": "F3_4.wav"
+    "file": "94.wav"
   },
   {
     "title": "noisy -5dB",
-    "file": "F2_4.wav"
+    "file": "95.wav"
   },
   {
     "title": "enhanced -5dB",
-    "file": "F3_4.wav"
+    "file": "96.wav"
   },
   {
     "title": "noisy -10dB",
-    "file": "F2_4.wav"
+    "file": "97.wav"
   },
   {
     "title": "enhanced -10dB",
-    "file": "F3_4.wav"
+    "file": "98.wav"
   }
 ]
