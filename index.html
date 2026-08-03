@@ -63,19 +63,17 @@ files.sort((a,b)=>a.localeCompare(b,'fa'));
 
 const container=document.getElementById("container");
 
-files.forEach(file=>{
-
-const title=file.replace(".mp3","");
+files.forEach(item=>{
 
 container.innerHTML+=`
 
 <div class="card">
 
-<h3>${title}</h3>
+<h3>${item.title}</h3>
 
 <audio controls preload="none">
 
-<source src="audio/${file}" type="audio/mpeg">
+<source src="audio/${item.file}" type="audio/mpeg">
 
 </audio>
 
