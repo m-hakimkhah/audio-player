@@ -1,14 +1,394 @@
 [
   {
-    "title": "Demo 1 - Babble Noise",
+    "title": "clean",
     "file": "F1_3.wav"
   },
   {
-    "title": "Demo 2 - Street Noise",
+    "title": "noisy 0dB",
     "file": "F2_4.wav"
   },
   {
-    "title": "Demo 3 - Cafe Noise",
+    "title": "enhanced 0dB",
+    "file": "F3_4.wav"
+  },
+  {
+    "title": "noisy -5dB",
+    "file": "F2_4.wav"
+  },
+  {
+    "title": "enhanced -5dB",
+    "file": "F3_4.wav"
+  },
+  {
+    "title": "noisy -10dB",
+    "file": "F2_4.wav"
+  },
+  {
+    "title": "enhanced -10dB",
+    "file": "F3_4.wav"
+  },
+  {
+    "title": "clean",
+    "file": "F1_3.wav"
+  },
+  {
+    "title": "noisy 0dB",
+    "file": "F2_4.wav"
+  },
+  {
+    "title": "enhanced 0dB",
+    "file": "F3_4.wav"
+  },
+  {
+    "title": "noisy -5dB",
+    "file": "F2_4.wav"
+  },
+  {
+    "title": "enhanced -5dB",
+    "file": "F3_4.wav"
+  },
+  {
+    "title": "noisy -10dB",
+    "file": "F2_4.wav"
+  },
+  {
+    "title": "enhanced -10dB",
+    "file": "F3_4.wav"
+  },
+  {
+    "title": "clean",
+    "file": "F1_3.wav"
+  },
+  {
+    "title": "noisy 0dB",
+    "file": "F2_4.wav"
+  },
+  {
+    "title": "enhanced 0dB",
+    "file": "F3_4.wav"
+  },
+  {
+    "title": "noisy -5dB",
+    "file": "F2_4.wav"
+  },
+  {
+    "title": "enhanced -5dB",
+    "file": "F3_4.wav"
+  },
+  {
+    "title": "noisy -10dB",
+    "file": "F2_4.wav"
+  },
+  {
+    "title": "enhanced -10dB",
+    "file": "F3_4.wav"
+  },
+  {
+    "title": "clean",
+    "file": "F1_3.wav"
+  },
+  {
+    "title": "noisy 0dB",
+    "file": "F2_4.wav"
+  },
+  {
+    "title": "enhanced 0dB",
+    "file": "F3_4.wav"
+  },
+  {
+    "title": "noisy -5dB",
+    "file": "F2_4.wav"
+  },
+  {
+    "title": "enhanced -5dB",
+    "file": "F3_4.wav"
+  },
+  {
+    "title": "noisy -10dB",
+    "file": "F2_4.wav"
+  },
+  {
+    "title": "enhanced -10dB",
+    "file": "F3_4.wav"
+  },
+  {
+    "title": "clean",
+    "file": "F1_3.wav"
+  },
+  {
+    "title": "noisy 0dB",
+    "file": "F2_4.wav"
+  },
+  {
+    "title": "enhanced 0dB",
+    "file": "F3_4.wav"
+  },
+  {
+    "title": "noisy -5dB",
+    "file": "F2_4.wav"
+  },
+  {
+    "title": "enhanced -5dB",
+    "file": "F3_4.wav"
+  },
+  {
+    "title": "noisy -10dB",
+    "file": "F2_4.wav"
+  },
+  {
+    "title": "enhanced -10dB",
+    "file": "F3_4.wav"
+  },
+  {
+    "title": "clean",
+    "file": "F1_3.wav"
+  },
+  {
+    "title": "noisy 0dB",
+    "file": "F2_4.wav"
+  },
+  {
+    "title": "enhanced 0dB",
+    "file": "F3_4.wav"
+  },
+  {
+    "title": "noisy -5dB",
+    "file": "F2_4.wav"
+  },
+  {
+    "title": "enhanced -5dB",
+    "file": "F3_4.wav"
+  },
+  {
+    "title": "noisy -10dB",
+    "file": "F2_4.wav"
+  },
+  {
+    "title": "enhanced -10dB",
+    "file": "F3_4.wav"
+  },
+  {
+    "title": "clean",
+    "file": "F1_3.wav"
+  },
+  {
+    "title": "noisy 0dB",
+    "file": "F2_4.wav"
+  },
+  {
+    "title": "enhanced 0dB",
+    "file": "F3_4.wav"
+  },
+  {
+    "title": "noisy -5dB",
+    "file": "F2_4.wav"
+  },
+  {
+    "title": "enhanced -5dB",
+    "file": "F3_4.wav"
+  },
+  {
+    "title": "noisy -10dB",
+    "file": "F2_4.wav"
+  },
+  {
+    "title": "enhanced -10dB",
+    "file": "F3_4.wav"
+  },
+  {
+    "title": "clean",
+    "file": "F1_3.wav"
+  },
+  {
+    "title": "noisy 0dB",
+    "file": "F2_4.wav"
+  },
+  {
+    "title": "enhanced 0dB",
+    "file": "F3_4.wav"
+  },
+  {
+    "title": "noisy -5dB",
+    "file": "F2_4.wav"
+  },
+  {
+    "title": "enhanced -5dB",
+    "file": "F3_4.wav"
+  },
+  {
+    "title": "noisy -10dB",
+    "file": "F2_4.wav"
+  },
+  {
+    "title": "enhanced -10dB",
+    "file": "F3_4.wav"
+  },
+  {
+    "title": "clean",
+    "file": "F1_3.wav"
+  },
+  {
+    "title": "noisy 0dB",
+    "file": "F2_4.wav"
+  },
+  {
+    "title": "enhanced 0dB",
+    "file": "F3_4.wav"
+  },
+  {
+    "title": "noisy -5dB",
+    "file": "F2_4.wav"
+  },
+  {
+    "title": "enhanced -5dB",
+    "file": "F3_4.wav"
+  },
+  {
+    "title": "noisy -10dB",
+    "file": "F2_4.wav"
+  },
+  {
+    "title": "enhanced -10dB",
+    "file": "F3_4.wav"
+  },
+  {
+    "title": "clean",
+    "file": "F1_3.wav"
+  },
+  {
+    "title": "noisy 0dB",
+    "file": "F2_4.wav"
+  },
+  {
+    "title": "enhanced 0dB",
+    "file": "F3_4.wav"
+  },
+  {
+    "title": "noisy -5dB",
+    "file": "F2_4.wav"
+  },
+  {
+    "title": "enhanced -5dB",
+    "file": "F3_4.wav"
+  },
+  {
+    "title": "noisy -10dB",
+    "file": "F2_4.wav"
+  },
+  {
+    "title": "enhanced -10dB",
+    "file": "F3_4.wav"
+  },
+  {
+    "title": "clean",
+    "file": "F1_3.wav"
+  },
+  {
+    "title": "noisy 0dB",
+    "file": "F2_4.wav"
+  },
+  {
+    "title": "enhanced 0dB",
+    "file": "F3_4.wav"
+  },
+  {
+    "title": "noisy -5dB",
+    "file": "F2_4.wav"
+  },
+  {
+    "title": "enhanced -5dB",
+    "file": "F3_4.wav"
+  },
+  {
+    "title": "noisy -10dB",
+    "file": "F2_4.wav"
+  },
+  {
+    "title": "enhanced -10dB",
+    "file": "F3_4.wav"
+  },
+  {
+    "title": "clean",
+    "file": "F1_3.wav"
+  },
+  {
+    "title": "noisy 0dB",
+    "file": "F2_4.wav"
+  },
+  {
+    "title": "enhanced 0dB",
+    "file": "F3_4.wav"
+  },
+  {
+    "title": "noisy -5dB",
+    "file": "F2_4.wav"
+  },
+  {
+    "title": "enhanced -5dB",
+    "file": "F3_4.wav"
+  },
+  {
+    "title": "noisy -10dB",
+    "file": "F2_4.wav"
+  },
+  {
+    "title": "enhanced -10dB",
+    "file": "F3_4.wav"
+  },
+  {
+    "title": "clean",
+    "file": "F1_3.wav"
+  },
+  {
+    "title": "noisy 0dB",
+    "file": "F2_4.wav"
+  },
+  {
+    "title": "enhanced 0dB",
+    "file": "F3_4.wav"
+  },
+  {
+    "title": "noisy -5dB",
+    "file": "F2_4.wav"
+  },
+  {
+    "title": "enhanced -5dB",
+    "file": "F3_4.wav"
+  },
+  {
+    "title": "noisy -10dB",
+    "file": "F2_4.wav"
+  },
+  {
+    "title": "enhanced -10dB",
+    "file": "F3_4.wav"
+  },
+  {
+    "title": "clean",
+    "file": "F1_3.wav"
+  },
+  {
+    "title": "noisy 0dB",
+    "file": "F2_4.wav"
+  },
+  {
+    "title": "enhanced 0dB",
+    "file": "F3_4.wav"
+  },
+  {
+    "title": "noisy -5dB",
+    "file": "F2_4.wav"
+  },
+  {
+    "title": "enhanced -5dB",
+    "file": "F3_4.wav"
+  },
+  {
+    "title": "noisy -10dB",
+    "file": "F2_4.wav"
+  },
+  {
+    "title": "enhanced -10dB",
     "file": "F3_4.wav"
   }
 ]
