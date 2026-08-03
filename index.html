@@ -2,48 +2,113 @@
 <html lang="en" dir="ltr">
 
 <head>
+
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <title>Low SNR demos</title>
 
 <style>
 
+*{
+    box-sizing:border-box;
+}
+
 body{
-    font-family:tahoma;
-    background:#f5f5f5;
     margin:0;
     padding:20px;
+    background:#f4f4f4;
+    font-family:Arial, Helvetica, sans-serif;
 }
 
 h1{
     text-align:center;
+    margin-bottom:30px;
+    color:#222;
 }
 
 .container{
+
     display:grid;
+
     grid-template-columns:repeat(7,1fr);
+
     gap:15px;
+
     direction:ltr;
+
 }
 
 .card{
+
     background:white;
-    padding:10px;
+
     border-radius:10px;
+
+    padding:12px;
+
     box-shadow:0 2px 8px rgba(0,0,0,.15);
 
     text-align:center;
+
 }
 
 .card h3{
+
+    margin:0 0 12px;
+
     font-size:14px;
-    margin-top:0;
+
+    font-weight:bold;
+
     word-break:break-word;
+
 }
 
 audio{
+
     width:100%;
+
+}
+
+@media(max-width:1400px){
+
+.container{
+
+grid-template-columns:repeat(5,1fr);
+
+}
+
+}
+
+@media(max-width:1000px){
+
+.container{
+
+grid-template-columns:repeat(3,1fr);
+
+}
+
+}
+
+@media(max-width:700px){
+
+.container{
+
+grid-template-columns:repeat(2,1fr);
+
+}
+
+}
+
+@media(max-width:500px){
+
+.container{
+
+grid-template-columns:1fr;
+
+}
+
 }
 
 </style>
@@ -59,10 +124,10 @@ audio{
 <script>
 
 fetch("files.json")
-.then(r=>r.json())
+.then(response=>response.json())
 .then(files=>{
 
-files.sort((a,b)=>a.localeCompare(b,'fa'));
+###files.sort((a,b)=>a.title.localeCompare(b.title));
 
 const container=document.getElementById("container");
 
@@ -78,6 +143,8 @@ container.innerHTML+=`
 
 <source src="audio/${item.file}" type="audio/mpeg">
 
+مرورگر شما از پخش صوت پشتیبانی نمی‌کند.
+
 </audio>
 
 </div>
@@ -85,6 +152,14 @@ container.innerHTML+=`
 `;
 
 });
+
+})
+.catch(error=>{
+
+document.getElementById("container").innerHTML=
+"<p>خطا در بارگذاری فایل files.json</p>";
+
+console.error(error);
 
 });
 
